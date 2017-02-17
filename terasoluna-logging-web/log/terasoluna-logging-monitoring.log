@@ -1,0 +1,12 @@
+date:2017-01-26 10:28:08	X-Track:a07669cb059d4b038a1efaf8aea2425f	level:ERROR	message:[e.xx.fw.9001] 0
+date:2017-01-26 10:52:09	X-Track:de93e801bf2742f7bee055ac95f2f98d	level:ERROR	message:[e.xx.fw.9001] 0
+date:2017-01-26 10:53:10	X-Track:f1bc8e5e25484727ac398170b0218262	level:ERROR	message:[e.xx.fw.9001] 0
+date:2017-01-26 11:04:53	X-Track:cfb5b190b4154205b098c8c920fbbb3f	level:ERROR	message:[e.xx.fw.9001] org.ryan.logging.domain.model.User cannot be cast to [Ljava.lang.Object;
+date:2017-01-26 11:12:40	X-Track:fe1a74cc356f434799d416d24694c0b4	level:ERROR	message:[e.xx.fw.9001] org.ryan.logging.domain.model.User cannot be cast to [Ljava.lang.reflect.Field;
+date:2017-01-26 12:10:49	X-Track:455b214b9b4042058fd6ff38af823823	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
+date:2017-01-26 12:11:24	X-Track:1f886a5638574a5c977893e17999febc	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
+date:2017-01-26 12:11:30	X-Track:3b5551baef0047fd84b79e4893287446	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
+date:2017-01-26 12:13:29	X-Track:5e71e389247f42adbda6c3367fd04f74	level:ERROR	message:[e.xx.fw.9001] Can not set java.lang.String field org.ryan.logging.domain.model.User.userId to java.lang.String
+date:2017-01-26 12:16:29	X-Track:5080c3db4a5d4a73956c6fed83487572	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
+date:2017-01-26 12:19:58	X-Track:ad548a4b3cdd417a91ec882cf16fed38	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
+date:2017-01-26 12:20:02	X-Track:a7c1ee50fbb248808ebbd14359c77ce2	level:ERROR	message:[e.xx.fw.9001] UNDEFINED-MESSAGE
